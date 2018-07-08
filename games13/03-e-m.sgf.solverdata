@@ -1,0 +1,18 @@
+42 of 42 states (solver - 600s per state) W[g9]
+Winner         white
+PV             l8 h4 k3 k8 g11 i3 k2 k4 a10 b11 d8 b9 l5
+41 of 42 states (solver - 600s per state) B[j7]
+Winner         white
+PV             g9 l8 h4 k3 k8 g11 i3 k2 k4 a10 b11 d8 b9 l5
+40 of 42 states (solver - 600s per state) W[i7]
+Winner         white
+PV             a10 b11 m7 j7 l6 k3 l4 l9 j8 k9 d8 c9
+39 of 42 states (solver - 600s per state) B[j5]
+Winner         white
+PV             i7 a10 b11 m7 j7 l6 k3 l4 l9 j8 k9 d8 c9
+38 of 42 states (solver - 600s per state) W[i6]
+Winner         white
+PV             a10 b11 d8 b10 k4 j3 k2 k3
+37 of 42 states (solver - 600s per state) B[j6]
+Winner         white
+PV             i6 a10 b11 d8 b10 k4 j3 k2 k3
