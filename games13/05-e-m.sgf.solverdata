@@ -1,0 +1,12 @@
+50 of 50 states (solver - 300s per state) B[i3]
+Winner         black
+PV             i2 h3 h1 g2 i12 k12 g1 f2 f1 e2 e1 h2
+49 of 50 states (solver - 300s per state) W[j2]
+Winner         black
+PV             i3 i2 h3 h1 g2 i12 k12 g1 f2 f1 e2 e1 h2
+48 of 50 states (solver - 300s per state) B[k11]
+Winner         black
+PV             i12 j12 j2 i3 i1 i2 j1 h2 h1 g2 g1 d3
+47 of 50 states (solver - 300s per state) W[l12]
+Winner         black
+PV             k11 i12 j12 j2 i3 i1 i2 j1 h2 h1 g2 g1 d3
