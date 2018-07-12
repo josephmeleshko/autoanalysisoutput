@@ -1,0 +1,45 @@
+38 of 38 states (solver - 300s per state) B[a13]
+Winner         white
+PV             a12
+37 of 38 states (solver - 300s per state) W[b13]
+Winner         white
+PV             a13 a12
+36 of 38 states (solver - 300s per state) B[a11]
+Winner         white
+PV             b13 a13 a12
+35 of 38 states (solver - 300s per state) W[d12]
+Winner         white
+PV             c9 b13 a13 b12 a12 b10 b11 c10
+34 of 38 states (solver - 300s per state) B[c11]
+Winner         white
+PV             d12 c9 b13 a13 b12 a12 b10 b11 c10
+33 of 38 states (solver - 300s per state) W[g12]
+Winner         white
+PV             a11 b12 c9 d12 c12 c10
+32 of 38 states (solver - 300s per state) B[i11]
+Winner         white
+PV             g12 a11 b12 c9 d12 c12 c10
+31 of 38 states (solver - 300s per state) W[j12]
+Winner         white
+PV             a11 b12 c12 e12 d11 h8 c9 c10
+30 of 38 states (solver - 300s per state) B[k11]
+Winner         white
+PV             j12 a11 b12 c12 e12 d11 h8 c9 c10
+29 of 38 states (solver - 300s per state) W[j11]
+Winner         white
+PV             a11 b12 c12 e12 d11 h8 c9 c10
+28 of 38 states (solver - 300s per state) B[k6]
+Winner         white
+PV             j11 a11 b12 c12 e12 d11 h8 c9 c10
+27 of 38 states (solver - 300s per state) W[l10]
+Winner         white
+PV             e8 d12 j11 k6 c10 c11
+26 of 38 states (solver - 300s per state) B[j6]
+Winner         white
+PV             l10 e8 d12 j11 k6 c10 c11
+25 of 38 states (solver - 300s per state) W[l4]
+Winner         white
+PV             a11 b12 d11 h8 j6 k6 c9 c10
+24 of 38 states (solver - 300s per state) B[l3]
+Winner         white
+PV             l4 a11 b12 d11 h8 j6 k6 c9 c10
