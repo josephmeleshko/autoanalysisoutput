@@ -1,0 +1,6 @@
+44 of 44 states (solver - 300s per state) B[e4]
+Winner         black
+PV             e3 d2 l9 m9 c3 f3 g2 f2 l11 l10
+43 of 44 states (solver - 300s per state) W[g3]
+Winner         black
+PV             e4 e3 d2 l9 m9 c3 f3 g2 f2 l11 l10
