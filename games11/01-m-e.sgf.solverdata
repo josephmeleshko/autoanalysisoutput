@@ -1,0 +1,42 @@
+29 of 29 states (solver - 300s per state) W[g9]
+Winner         white
+PV             b7 c6 j4 i8 h8 h9 a6 b6
+28 of 29 states (solver - 300s per state) B[g8]
+Winner         white
+PV             g9 b7 c6 j4 i8 h8 h9 a6 b6
+27 of 29 states (solver - 300s per state) W[f9]
+Winner         white
+PV             i6 b7 i8 g10 g9 g8 g7 i7 k6 j7 k7 j8 k8 j6 k5
+26 of 29 states (solver - 300s per state) B[f8]
+Winner         white
+PV             f9 i6 b7 i8 g10 g9 g8 g7 i7 k6 j7 k7 j8 k8 j6 k5
+25 of 29 states (solver - 300s per state) W[e9]
+Winner         white
+PV             g7 g8 b7 c6 h7 h8 i7 f8 k8 f7 a6 b6
+24 of 29 states (solver - 300s per state) B[e8]
+Winner         white
+PV             e9 g7 g8 b7 c6 h7 h8 i7 f8 k8 f7 a6 b6
+23 of 29 states (solver - 300s per state) W[c7]
+Winner         white
+PV             b7 c6 a6 d3 d4 b5 a5 c4 d2 c3 e8 e9 f8 f9 g8 g9 i8
+22 of 29 states (solver - 300s per state) B[b8]
+Winner         white
+PV             c7 b7 c6 a6 d3 d4 b5 a5 c4 d2 c3 e8 e9 f8 f9 g8 g9 i8
+21 of 29 states (solver - 300s per state) W[c8]
+Winner         white
+PV             e8 e9 a8 b7 a7 c5 a6 d3 d2 c3 c6 b6 d4 b8 f8 f9 g8 g9 i8
+20 of 29 states (solver - 300s per state) B[b9]
+Winner         white
+PV             c8 e8 e9 a8 b7 a7 c5 a6 d3 d2 c3 c6 b6 d4 b8 f8 f9 g8 g9 i8
+19 of 29 states (solver - 300s per state) W[c9]
+Winner         white
+PV             a9 b8 a8 b7 a7 c5 a6 d3 e8 e9 d4 c4 d2 c3 c6 b6 f8 f9 g8 g9 i8
+18 of 29 states (solver - 300s per state) B[d7]
+Winner         white
+PV             c9 a9 b8 a8 b7 a7 c5 a6 d3 e8 e9 d4 c4 d2 c3 c6 b6 f8 f9 g8 g9 i8
+17 of 29 states (solver - 300s per state) W[e7]
+Winner         white
+PV             b5 b9 c7 c9 e8 e9 f8 f9 g8 g9 i8
+16 of 29 states (solver - 300s per state) B[b10]
+Winner         white
+PV             e7 b5 b9 c7 c9 e8 e9 f8 f9 g8 g9 i8
