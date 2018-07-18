@@ -1,0 +1,30 @@
+69 of 69 states (solver - 300s per state) W[k3]))
+Winner         black
+PV             e12 a13 e1 k4 l2 f5 g3 k3
+68 of 69 states (solver - 300s per state) B[i7]
+Winner         black
+PV             g2 k4 a13 e12 l2 k3 k2 j3 j2 g6 e5 i3 i1 i2 j1 d4 f1 d2 d3 h2 h1 e3 e2 b4 c4 b5 c6 b7 d7 d6
+67 of 69 states (solver - 300s per state) W[l3]
+Winner         black
+PV             e5 l2 k4 f5 g3 f4 a13 e12 f2 f3
+66 of 69 states (solver - 300s per state) B[g6]
+Winner         black
+PV             f2 k4 a13 e12 l2 k3 k2 j3 j2 f5 g3 h3 i1 g2
+65 of 69 states (solver - 300s per state) W[g5]
+Winner         black
+PV             a13 e12 h2 k4 l2 k3 k2 j2
+64 of 69 states (solver - 300s per state) B[b6]
+Winner         black
+PV             a13 e12 h3 k4 l2 k3 k2 g5 g2 i3 j1 i2 i1 h2
+63 of 69 states (solver - 300s per state) W[h4]
+Winner         black
+PV             i5 k4 l2 k3 k1 k2 l1 j2 j1 i2 a13 e12 i1 h2 h1 g2 g1 f2 f1 d2 e2 d3 e3 d4
+62 of 69 states (solver - 300s per state) B[h5]
+Winner         black
+PV             a13 e12 k1 k4 l2 i2
+61 of 69 states (solver - 300s per state) W[i4]
+Winner         black
+PV             j2 j5 k3 i4 h4 k4 l2 i3 i1 h2 e12 a13 h1 g2 g1 f2 f1 i2 j1 d2 e2 d3 e3 d4
+60 of 69 states (solver - 300s per state) W[i7])(
+Winner         black
+PV             e12 a13 i1 i5 j2 k3 j4 j3
