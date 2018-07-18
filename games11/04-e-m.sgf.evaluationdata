@@ -1,0 +1,26 @@
+1 0.55 # B[a8], Mohex wants to play b10
+2 0.55 #* W[swap-pieces]
+3 0.65 # W[g4], Mohex wants to play b6
+4 0.63 # B[d6], Mohex wants to play b10
+5 0.63 # W[b10], Mohex wants to play h4
+6 0.63 # B[h4], Mohex wants to play e9
+7 0.63 # W[d9], Mohex wants to play c9
+8 0.63 # B[c9], Mohex wants to play c10
+9 0.62 # W[c10], Mohex wants to play f8
+10 0.63 # B[h8], Mohex wants to play h2
+11 0.67 # W[h9], Mohex wants to play i8
+12 0.66 # B[i8], Mohex wants to play i9
+13 0.72 # W[h6], Mohex wants to play e8
+14 0.74 # B[e8], Mohex wants to play d3
+15 0.73 # W[g5], Mohex wants to play d8
+16 0.7 # B[b6], Mohex wants to play d8
+17 0.73 # W[e9], Mohex wants to play j5
+18 0.71 # B[j5], Mohex wants to play e4
+19 0.75 # W[i9], Mohex wants to play j8
+20 0.77 # B[j8], Mohex wants to play g9
+21 0.81 # W[j2], Mohex wants to play g8
+22 0.87 # B[g8], Mohex wants to play c3
+23 0.89 # W[f8], Mohex wants to play g7
+24 0.89 # B[g7], Mohex wants to play c3
+25 0.93 # W[d3], Mohex wants to play i2
+26 0.94 # B[i2], Mohex wants to play i5
