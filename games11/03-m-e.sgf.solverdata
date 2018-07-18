@@ -1,0 +1,12 @@
+31 of 31 states (solver - 300s per state) B[i7]
+Winner         black
+PV             g9 g8 f9 h8 h9 d6 c7 d8 d7 e8 c9 d9 f8 c6
+30 of 31 states (solver - 300s per state) W[i6]
+Winner         black
+PV             i7 g9 g8 f9 h8 h9 d6 c7 d8 d7 e8 c9 d9 f8 c6
+29 of 31 states (solver - 300s per state) B[k1]
+Winner         black
+PV             h8 i6 f8 g8 e11 g9 g10 h9
+28 of 31 states (solver - 300s per state) W[i2]
+Winner         black
+PV             k1 h8 i6 f8 g8 e11 g9 g10 h9
