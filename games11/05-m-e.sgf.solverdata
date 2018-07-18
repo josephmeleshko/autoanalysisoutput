@@ -1,0 +1,18 @@
+21 of 21 states (solver - 300s per state) B[h2]
+Winner         black
+PV             f3 e3 e1 c2 d2 c3 d3 b5 c8 c5 e5 b9 c9 b10
+20 of 21 states (solver - 300s per state) W[f2]
+Winner         black
+PV             h2 f3 e3 e1 c2 d2 c3 d3 b5 c8 c5 e5 b9 c9 b10
+19 of 21 states (solver - 300s per state) B[e4]
+Winner         black
+PV             c8 d6 f9 g9 f2 h2 f3 e3
+18 of 21 states (solver - 300s per state) W[d4]
+Winner         black
+PV             e4 c8 d6 f9 g9 f2 h2 f3 e3
+17 of 21 states (solver - 300s per state) B[d5]
+Winner         black
+PV             f2 c3 d4 b5 b4 c4 d2 c2 c8 c5 e5 b9 c9 b10
+16 of 21 states (solver - 300s per state) W[f4]
+Winner         black
+PV             d5 f2 c3 d4 b5 b4 c4 d2 c2 c8 c5 e5 b9 c9 b10
